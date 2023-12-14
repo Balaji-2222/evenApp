@@ -1,0 +1,40 @@
+.bgContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100%;
+  background-color: white;
+}
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 70vh;
+  width: 80%;
+  background-color: black;
+}
+.head1 {
+  font-size: 25px;
+  font-weight: bold;
+  color: #0f172a;
+  margin-bottom: 20px;
+}
+.head2 {
+  font-size: 15px;
+  color: #334155;
+}
+.paragraph {
+  font-size: 10px;
+  color: #1e293b;
+}
+.button {
+  background-color: white;
+  height: 30px;
+  width: 110px;
+  border-radius: 7px;
+  font-size: 13px;
+  color: #334155;
+}
